@@ -1,0 +1,138 @@
+.dama{
+  float: right;
+}
+.list li {
+  display: inline-flex;
+  padding: 0 20px;
+  cursor: pointer;
+}
+.clear {
+  clear: both;
+}
+  .image{
+
+    background:url(../images/ezgif-2-b583d0ce77.png) no-repeat center center/cover;
+    height: 100vh;
+  }
+  .clearfix{
+    clear:both;
+  }
+  .rozzy{
+    float:right;
+  }
+.mercy{
+  background-color:#496BF2;
+  padding:0px 5px;
+  border-color: blue;
+}
+.kemmy{
+  background-color:#2DD6C1;
+  padding:0px 5px;
+  border-color: aqua;
+}
+.maggy{
+  float:right;
+  display:inline-flex;
+  margin:70px;
+}
+.aqua{
+  padding:0 150px;
+  box-shadow:0 0 5px 5px;
+  margin:20px;
+}
+.melody{
+  color:#496BF2;
+}
+.brian{
+  color:#496BF2;
+}
+.cate{
+  float:left;
+  padding-left: 500px;
+}
+.fay{
+  color:#2DD6C1;
+}
+.ann{
+  color:blue;
+
+}
+.ben{
+  padding: 20px;
+  margin: 30px;
+  background-color: blue;
+  color: white;
+
+}
+
+.span-text{
+  color: #496BF2;
+}
+.commit{
+  text-align: center;
+}
+.happiness{
+background:url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
+}
+.poppy{
+  padding:10px 300px 50px 10px;
+  margin:30px 20px;
+
+}
+.alpha{
+  padding:20px 230px 150px 70px;
+  margin:30px 20px;
+}
+.gammah{
+  background-color: #496BF2;
+  width: 10%;
+  padding: 2em;
+  color: #fff;
+  border: none;
+  margin: 25px 25px  20px 20px;
+  
+}
+
+
+.testimonial-circle{
+  height:20px;
+  width:20px;
+  border-radius:50%;
+  display:inline-block;
+  margin:6px;
+}
+.green{
+  background-color:#496BF2;
+}
+.blue{
+  background-color: #2DD6C1;
+}
+.yummie{
+  color:#496BF2;
+}
+.star{
+  color:#496BF2;
+}
+.moon{
+  color:#2DD6C1;
+}
+.jimmy{
+  display:inline-flex;
+  
+}
+
+.lion{
+  display:inline-flex;
+}
+.burst{
+  display:inline-flex;
+}
+.mommy{
+  color:#496BF2;
+}
+
+
+
+
+
+
