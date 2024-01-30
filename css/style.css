@@ -1,24 +1,45 @@
-.dama{
+
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+*{
+  margin: 0 auto;
+  padding: 5px;
+  display: border-box;
+  font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+p{
+  font-size: 20px;
+}
+.clearfix{
+  clear:both;
+}
+.nav ul{
   float: right;
 }
-.list li {
-  display: inline-flex;
-  padding: 0 20px;
-  cursor: pointer;
-}
-.clear {
-  clear: both;
-}
-  .image{
 
-    background:url(../images/ezgif-2-b583d0ce77.png) no-repeat center center/cover;
-    height: 100vh;
+.nav ul li {
+  float: left;
+  padding:  20px;
+  cursor: pointer;
+  list-style: none;
+}
+  .hero{
+
+    background:url("../images/ezgif-2-b583d0ce77.png") no-repeat center center/cover;
+    height: 80vh;
   }
-  .clearfix{
-    clear:both;
-  }
-  .rozzy{
+  
+  .hero-content{
     float:right;
+    width: 50%;
+    padding: 150px 150px 0 0 ;
+  }
+  .hero-content h1{
+    font-size: 40px;
+  }
+  .hero-content p{
+    margin: 30px 0;
   }
 .mercy{
   background-color:#496BF2;
@@ -30,7 +51,7 @@
   padding:0px 5px;
   border-color: aqua;
 }
-.maggy{
+.services{
   float:right;
   display:inline-flex;
   margin:70px;
@@ -68,10 +89,10 @@
 .span-text{
   color: #496BF2;
 }
-.commit{
+.testimonials{
   text-align: center;
 }
-.happiness{
+.contact{
 background:url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
 }
 .poppy{
@@ -116,21 +137,16 @@ background:url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover
 .moon{
   color:#2DD6C1;
 }
-.jimmy{
-  display:inline-flex;
-  
-}
-.lion{
-  display:inline-flex;
-}
-.burst{
-  display:inline-flex;
-}
+
 .mommy{
   color:#496BF2;
 }
-.jimmy{
-  display:inline-flex;
+.footer-links{
+  float:left;
+  width: 25%;
+}
+.footer-links ul li{
+  list-style: none;
 }
 
 
